@@ -1,0 +1,1 @@
+Testing writing to a .txt file from the terminal and commiting it
